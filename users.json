@@ -1,0 +1,30 @@
+[
+    {
+        "first_name": "Omnia",
+        "last_name": "Gad",
+        "email": "omnia@gmail.com",
+        "password": "123456789",
+        "phone_number": "01127794498"
+    },
+    {
+        "first_name": "aya",
+        "last_name": "gad",
+        "email": "aya@gmail.com",
+        "password": "12345",
+        "phone_number": "01123456778"
+    },
+    {
+        "first_name": "Donia",
+        "last_name": "Tarek",
+        "email": "donia@gmail.com",
+        "password": "123456789",
+        "phone_number": "01127794498"
+    },
+    {
+        "first_name": "Alaa",
+        "last_name": "Sherief",
+        "email": "alaa@gmail.com",
+        "password": "123456789",
+        "phone_number": "01123456789"
+    }
+]
