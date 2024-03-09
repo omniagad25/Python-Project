@@ -22,7 +22,7 @@ def main():
             choice = input("1- Create Campaign\n2- View Projects\n3- Delete Project\n4- Edit Project\n5- Logout\nEnter your choice: ")
             if choice == "1":
                 user_email = auth.get_logged_in_user_email()
-                fundraise_campaign.create_campaign(user_email)
+                fundraise_campaign.create_project(user_email)
             elif choice == "2":
                 fundraise_campaign.view_projects()
             elif choice == "3":

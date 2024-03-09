@@ -1,0 +1,26 @@
+[
+    {
+        "title": "fyonka",
+        "details": "recycle",
+        "total_target": "2400",
+        "start_date": "2024-07-15",
+        "end_date": "2024-07-20",
+        "user_email": "omnia@gmail.com"
+    },
+    {
+        "title": "best life",
+        "details": "collecting money",
+        "total_target": "6000",
+        "start_date": "2024-07-15",
+        "end_date": "2024-07-20",
+        "user_email": "alaa@gmail.com"
+    },
+    {
+        "title": "healthy life",
+        "details": "free medicine",
+        "total_target": "8000",
+        "start_date": "2024-06-07",
+        "end_date": "2024-06-12",
+        "user_email": "alaa@gmail.com"
+    }
+]
